@@ -21,7 +21,8 @@ Open terminal and start RPC client by typing **ganache-cli**.
 
 Open another terminal and follow the commands.
 ```shell
-git@github.com:iamkumarji/Hackinators-Farming-Dapp.git
+git clone https://github.com/iamkumarji/Hackinators-Farming-Dapp
+
 ```
 ```shell
 cd Hackinators-Farming-Dapp
